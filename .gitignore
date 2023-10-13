@@ -1,0 +1,9 @@
+/build/
+/node_modules/
+
+.private_key
+
+.env
+
+*.lock
+*.log
